@@ -17,27 +17,33 @@ Minor in Data Science
 
 ## Tech Stack
 
-**Languages**  
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**AI / ML**  
+**AI / ML**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC3F2E?style=flat-square&logo=xgboost&logoColor=white)
-`LangGraph · RAG`
+`LangGraph` `RAG`
 
-**Backend**  
+**Backend**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Frontend**  
+**Frontend**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Databases**  
+**Databases**
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools**  
+**Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -52,15 +58,6 @@ Minor in Data Science
 | **REVIVE** | Autonomous payment-recovery system with strategy evaluation and merchant guardrails. | Python · Docker · Makefile · ML · Simulator | [View Repository](https://github.com/turbzox1/REVIVE) |
 | **EPL Prediction System** | End-to-end Premier League match predictor with feature engineering and dashboard. | Python · Scikit-learn · XGBoost · FastAPI · Streamlit | [View Repository](https://github.com/turbzox1/Epl_prediction_system) |
 | **Insurance Support Chatbot** | LangGraph + RAG conversational assistant for insurance support. | Python · LangGraph · RAG · Retriever · Context Compression · Query Rewriter · Web Search | [View Repository](https://github.com/turbzox1/insurance-support-chatbot) |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbzox1&show_icons=true&theme=dark&hide=html,css,javascript,R&locale=en&count_private=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/?username=turbzox1&show_icons=true&theme=dark&hide=html,css,javascript,R&locale=en&count_private=true" alt="GitHub Stats" />
-</p>
 
 ---
 
@@ -79,6 +76,4 @@ Minor in Data Science
 
 ---
 
-## Let's Connect
-
-I'm open to discussing opportunities, collaborations, or just chatting about AI and software.
+*I'm open to discussing opportunities, collaborations, or just chatting about AI and software.*
