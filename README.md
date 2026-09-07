@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software development · Data science · AI</strong>
+  <strong>AI/ML · Data science · Software development</strong>
 </p>
 
 <p align="center">
