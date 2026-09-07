@@ -101,15 +101,50 @@ My projects connect the analytical work—data preparation, feature engineering,
 
 ## Technical toolkit
 
-| Area | Tools I work with |
-| :--- | :--- |
-| **Machine learning** | scikit-learn · XGBoost · feature engineering · SMOTE |
-| **Generative AI & retrieval** | LangChain · LangGraph · ChromaDB · RAG |
-| **Data science & analytics** | Python · SQL · Pandas · NumPy · DuckDB · R |
-| **Visualization** | Plotly · Matplotlib · Streamlit · Power BI |
-| **Applications & APIs** | Next.js · FastAPI · SQLAlchemy · Redis · SQLite |
-| **Development** | Git · GitHub · Docker · reproducible experiments · automated tests |
-| **Additional languages** | C++ · Java |
+#### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B8462F?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Machine learning & AI
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-B76623?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-425C4B?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-785B46?style=for-the-badge)
+
+#### Data & visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-343A36?style=for-the-badge&logo=duckdb&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-B83C46?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-846C15?style=for-the-badge)
+
+#### Applications & databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-007F73?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-202321?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-A02E2E?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-A83232?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Development tools
+
+![Git](https://img.shields.io/badge/Git-BD4932?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-202321?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-246BB0?style=for-the-badge&logo=docker&logoColor=white)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib logo" width="24" height="24" />
+  <strong>Matplotlib</strong> · Feature engineering · SMOTE · RAG · Reproducible experiments · Automated tests
+</p>
 
 ## Education & learning
 
