@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software development · Data science · Applied machine learning</strong>
+  <strong>Software development · Data science · AI</strong>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 I'm an **Engineer** who likes turning an interesting problem into something you can actually use. Sometimes that's a web app, sometimes a data pipeline, sometimes a model. I tend to follow the problem rather than pick a favourite job title.
 
-My work sits across **software development, data science, and applied machine learning**. I enjoy connecting the pieces: making sense of the data, writing the backend, and building an interface that doesn't need me standing next to it explaining which button to press.
+My work sits across **software development, data science, and ai/ml**. I enjoy connecting the pieces: making sense of the data, writing the backend, and building an interface that doesn't need me standing next to it explaining which button to press.
 
 My background is in **Cyber Physical Systems at Manipal Institute of Technology**, with a **Data Science minor**. I like the overlap: understand the data, build the system, and make it useful to someone who didn't write it.
 
