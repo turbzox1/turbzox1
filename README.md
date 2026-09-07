@@ -31,56 +31,73 @@ My projects connect the analytical work—data preparation, feature engineering,
 
 ## Selected work
 
-### 01 / TrendPulse
+**Two featured projects: [TrendPulse](https://github.com/turbzox1/TrendPulse) for data science and [REVIVE](https://github.com/turbzox1/REVIVE) for applied AI engineering.**
 
-**What is gaining attention—and is it likely to last?**
+### 01 / TrendPulse — Trend intelligence
 
-An internet trend intelligence platform that goes beyond popularity rankings: discover emerging topics, unpack momentum, investigate spikes, compare platform timing, and benchmark short-term forecasts.
+**DATA SCIENCE · TIME SERIES · ANALYTICS ENGINEERING**
+
+**What is gaining attention—and is it likely to last?** An internet trend intelligence platform that discovers emerging topics, explains momentum, investigates spikes, and benchmarks short-term forecasts.
+
+- **Explainable analytics:** seven momentum factors, lifecycle stages, anomaly evidence, and sustainability assessment.
+- **Honest evaluation:** chronological validation, naive forecasting baselines, uncertainty intervals, and non-causal lead/lag analysis.
+- **Reproducible pipeline:** 18 fictional topics, 16,128 multi-source observations, DuckDB analytical views, and 60 passing tests at the latest audit.
+
+`Python` `Pandas` `NumPy` `DuckDB / SQL` `scikit-learn` `Plotly` `Streamlit`
+
+**[Explore TrendPulse ↗](https://github.com/turbzox1/TrendPulse)** · [Read the methodology ↗](https://github.com/turbzox1/TrendPulse/blob/main/docs/analytics-audit.md)
+
+<details>
+  <summary><strong>See the TrendPulse dashboard</strong></summary>
 
 <a href="https://github.com/turbzox1/TrendPulse">
   <img src="https://raw.githubusercontent.com/turbzox1/TrendPulse/main/docs/screenshots/overview.png" alt="TrendPulse dashboard showing searchable topics, momentum cards and clearly labeled synthetic data" width="100%" />
 </a>
 
-**Data science & engineering demonstrated**
-
-- **Explainable analytics:** seven momentum factors, lifecycle stages, anomaly evidence, and sustainability assessment.
-- **Honest evaluation:** chronological validation, naive forecasting baselines, uncertainty intervals, and explicit non-causal lead/lag analysis.
-- **Reproducible by design:** 18 fictional topics, 16,128 multi-source observations, SQL analytical views, and 60 passing tests at the latest audit.
-
-`Python` `Pandas` `NumPy` `DuckDB / SQL` `scikit-learn` `Plotly` `Streamlit`
-
-[Explore TrendPulse ↗](https://github.com/turbzox1/TrendPulse) · [Read the methodology ↗](https://github.com/turbzox1/TrendPulse/blob/main/docs/analytics-audit.md)
+</details>
 
 <sub>Demo observations are synthetic, not live Reddit or Google data. Scores are interpretable heuristics, not calibrated probabilities.</sub>
 
-### More things I've built
+---
+
+### 02 / REVIVE — Revenue recovery & decision engine
+
+**AI ENGINEERING · DECISION OPTIMIZATION · BACKEND SYSTEMS**
+
+**A payment failed. What should happen next?** Built for the Razorpay Buildathon, REVIVE evaluates recovery actions rather than applying the same retry strategy to every failed payment.
+
+- **ML-backed decisions:** predict recovery probability for candidate actions using payment, customer, merchant, and attempt context.
+- **Constrained optimization:** compare expected recovery after intervention costs, customer friction, and risk penalties; enforce merchant policies before recommending an action.
+- **End-to-end engineering:** persist decisions and action explanations, execute supported payment-link actions through Razorpay Test Mode, and process payment webhooks to track outcomes.
+
+`Python` `FastAPI` `Gradient boosting` `PostgreSQL` `Redis` `SQLAlchemy` `Docker`
+
+**[Explore REVIVE ↗](https://github.com/turbzox1/REVIVE)** · [Inside the decision flow ↗](https://github.com/turbzox1/REVIVE#decision-flow-step-by-step)
+
+<sub>Test-mode integration and simulation demonstrate the workflow; no claim of proven production revenue uplift.</sub>
+
+---
+
+### Additional projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>02 / Personal Finance Intelligence</h3>
+      <h3>03 / Personal Finance Intelligence</h3>
       <p><strong>AI application engineering.</strong></p>
       <p>An AI-powered financial intelligence platform built around a Next.js frontend and a FastAPI backend.</p>
       <p><code>Next.js</code> <code>FastAPI</code> <code>Python</code></p>
       <p><a href="https://github.com/turbzox1/Personal-Finance-Intelligence">Explore the project ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>03 / REVIVE</h3>
-      <p><strong>ML strategy evaluation and simulation.</strong></p>
-      <p>An autonomous payment-recovery system with strategy evaluation, simulation, and merchant guardrails.</p>
-      <p><code>Python</code> <code>ML</code> <code>Docker</code> <code>Simulation</code></p>
-      <p><a href="https://github.com/turbzox1/REVIVE">Explore the project ↗</a></p>
+      <h3>04 / Insurance Support Chatbot</h3>
+      <p><strong>Retrieval-backed AI workflows.</strong></p>
+      <p>A LangGraph + RAG assistant for insurance support, combining retrieval, context compression, query rewriting, and web search.</p>
+      <p><code>Python</code> <code>LangGraph</code> <code>RAG</code></p>
+      <p><a href="https://github.com/turbzox1/insurance-support-chatbot">Explore the project ↗</a></p>
     </td>
   </tr>
 </table>
-
-#### 04 / Insurance Support Chatbot
-
-**AI engineering through retrieval-backed workflows.** A LangGraph + RAG assistant for insurance support, combining retrieval, context compression, query rewriting, and web search.
-
-`Python` `LangGraph` `RAG` `Retrieval`
-
-[Explore the project ↗](https://github.com/turbzox1/insurance-support-chatbot)
 
 ## Technical toolkit
 
