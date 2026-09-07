@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/turbzox1/turbzox1/main/assets/piyush-ai-notebook.svg" alt="Hey, I'm Piyush Patni. AI Engineer. Building things, checking the answers. A notebook sketch of the idea, build, test, rethink loop." width="100%" />
+  <img src="https://raw.githubusercontent.com/turbzox1/turbzox1/main/assets/ai-engineer-signal.svg" alt="Piyush Patni — AI Engineer. Applied ML, LLM systems and data science. From models to systems that work." width="100%" />
 </p>
 
 <p align="center">
