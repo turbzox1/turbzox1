@@ -1,90 +1,120 @@
-# Piyush Patni
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Piyush Patni — Data with depth. Software with purpose. AI, analytics and full-stack engineering." width="100%" />
+</p>
 
-**AI • Data • Software**
+<p align="center">
+  <strong>I turn data into explanations, models into experiments, and ideas into working software.</strong>
+</p>
 
-I build intelligent applications and data-driven systems, with a focus on AI/ML, full-stack development, and practical problem solving.
+<p align="center">
+  B.Tech · Cyber Physical Systems · Manipal Institute of Technology<br />
+  Minor in Data Science
+</p>
 
-B.Tech in Cyber Physical Systems @ Manipal Institute of Technology  
-Minor in Data Science
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-patni-1bb52827b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyupatni@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/turbzox1)
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML & Data**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC3F2E?style=flat-square&logo=xgboost&logoColor=white)
-`SMOTE` `RAG`
-
-**Generative AI**
-
-`LangChain` `LangGraph` `ChromaDB`
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-`SQLAlchemy` `Redis`
-
-**Frontend & Analytics**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Databases**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-patni-1bb52827b/">LinkedIn ↗</a> &nbsp; / &nbsp;
+  <a href="mailto:piyupatni@gmail.com">Say hello ↗</a> &nbsp; / &nbsp;
+  <a href="#selected-work">Explore my work ↓</a>
+</p>
 
 ---
 
-## Featured Projects
+### A little about how I build
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Personal Finance Intelligence** | AI-powered financial intelligence platform with full-stack Next.js and FastAPI architecture. | Next.js · FastAPI · Python | [View Repository](https://github.com/turbzox1/Personal-Finance-Intelligence) |
-| **REVIVE** | Autonomous payment-recovery system with strategy evaluation and merchant guardrails. | Python · Docker · Makefile · ML · Simulator | [View Repository](https://github.com/turbzox1/REVIVE) |
-| **EPL Prediction System** | End-to-end Premier League match predictor with feature engineering and dashboard. | Python · Scikit-learn · XGBoost · FastAPI · Streamlit | [View Repository](https://github.com/turbzox1/Epl_prediction_system) |
-| **Insurance Support Chatbot** | LangGraph + RAG conversational assistant for insurance support. | Python · LangGraph · RAG · Retriever · Context Compression · Query Rewriter · Web Search | [View Repository](https://github.com/turbzox1/insurance-support-chatbot) |
+I'm **Piyush**, working across **data analytics, applied AI/ML, and full-stack development**. I enjoy the whole path from a messy dataset or an interesting question to something someone can actually use.
 
----
+Three questions guide my work: **What problem does this solve? What does the evidence support? Can someone else reproduce it?**
 
-## Education
+| Investigate | Build | Explain |
+| :--- | :--- | :--- |
+| Find useful patterns with Python, SQL, statistics, and feature engineering. | Connect models, APIs, and interfaces into complete applications. | Make results understandable through clear dashboards, baselines, and documented trade-offs. |
 
-**B.Tech — Cyber Physical Systems**  
-Manipal Institute of Technology  
-Minor in Data Science
+## Selected work
 
-## Certifications
+### 01 / TrendPulse
+
+**What is gaining attention—and is it likely to last?**
+
+An internet trend intelligence platform that goes beyond popularity rankings: discover emerging topics, unpack momentum, investigate spikes, compare platform timing, and benchmark short-term forecasts.
+
+<a href="https://github.com/turbzox1/TrendPulse">
+  <img src="https://raw.githubusercontent.com/turbzox1/TrendPulse/main/docs/screenshots/overview.png" alt="TrendPulse dashboard showing searchable topics, momentum cards and clearly labeled synthetic data" width="100%" />
+</a>
+
+**Inside the project**
+
+- **Explainable analytics:** seven momentum factors, lifecycle stages, anomaly evidence, and sustainability assessment.
+- **Honest evaluation:** chronological validation, naive forecasting baselines, uncertainty intervals, and explicit non-causal lead/lag analysis.
+- **Reproducible by design:** 18 fictional topics, 16,128 multi-source observations, SQL analytical views, and 60 passing tests at the latest audit.
+
+`Python` `Pandas` `NumPy` `DuckDB / SQL` `scikit-learn` `Plotly` `Streamlit`
+
+[Explore TrendPulse ↗](https://github.com/turbzox1/TrendPulse) · [Read the methodology ↗](https://github.com/turbzox1/TrendPulse/blob/main/docs/analytics-audit.md)
+
+<sub>Demo observations are synthetic, not live Reddit or Google data. Scores are interpretable heuristics, not calibrated probabilities.</sub>
+
+### More things I've built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>02 / Personal Finance Intelligence</h3>
+      <p><strong>Applied AI meets a full-stack product.</strong></p>
+      <p>An AI-powered financial intelligence platform built around a Next.js frontend and a FastAPI backend.</p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>Python</code></p>
+      <p><a href="https://github.com/turbzox1/Personal-Finance-Intelligence">Explore the project ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>03 / REVIVE</h3>
+      <p><strong>Recovery strategies, evaluated with guardrails.</strong></p>
+      <p>An autonomous payment-recovery system with strategy evaluation, simulation, and merchant guardrails.</p>
+      <p><code>Python</code> <code>ML</code> <code>Docker</code> <code>Simulation</code></p>
+      <p><a href="https://github.com/turbzox1/REVIVE">Explore the project ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+#### 04 / Insurance Support Chatbot
+
+**Retrieval-backed conversations for insurance support.** A LangGraph + RAG assistant combining retrieval, context compression, query rewriting, and web search.
+
+`Python` `LangGraph` `RAG` `Retrieval`
+
+[Explore the project ↗](https://github.com/turbzox1/insurance-support-chatbot)
+
+## My toolkit
+
+| Area | Tools I work with |
+| :--- | :--- |
+| **Languages** | Python · SQL · C++ · Java · R |
+| **Analytics & visualization** | Pandas · NumPy · DuckDB · Plotly · Matplotlib · Streamlit · Power BI |
+| **Machine learning** | scikit-learn · XGBoost · feature engineering · SMOTE |
+| **Generative AI & retrieval** | LangChain · LangGraph · ChromaDB · RAG |
+| **Applications & APIs** | Next.js · FastAPI · SQLAlchemy · Redis · SQLite |
+| **Development** | Git · GitHub · Docker · reproducible experiments · automated tests |
+
+## Learning, deliberately
+
+My **Cyber Physical Systems** background and **Data Science** minor connect systems thinking with analytical problem-solving. I like projects that make me practice both.
+
+<details>
+  <summary><strong>Certifications &amp; coursework</strong></summary>
 
 - Google AI Professional Certificate
 - Johns Hopkins Data Science Specialization
 - Python for Data Analysis
 - Introduction to Data Analysis using Microsoft Excel
 
+</details>
+
 ---
 
-*I'm open to discussing opportunities, collaborations, or just chatting about AI and software.*
+<p align="center">
+  <strong>Have an interesting problem, project, or opportunity?</strong><br />
+  I'm open to conversations about analytics, AI/ML, and software engineering.<br /><br />
+  <a href="https://www.linkedin.com/in/piyush-patni-1bb52827b/">Let's connect on LinkedIn ↗</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:piyupatni@gmail.com">Send me an email ↗</a>
+</p>
+
+<p align="center"><sub>Curiosity in. Useful things out.</sub></p>
