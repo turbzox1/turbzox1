@@ -21,7 +21,7 @@
 
 ### Hey, I'm Piyush.
 
-I'm an **AI engineer** who likes building things that do more than give a convincing demo. Retrieval-backed apps, ML pipelines, systems that help decide what to do next—that's the kind of work you'll find here.
+I'm an **Engineer** who likes building things that do more than give a convincing demo. Retrieval-backed apps, ML pipelines, systems that help decide what to do next—that's the kind of work you'll find here.
 
 Getting a model to answer is fun. Figuring out whether the answer deserves your trust is where I tend to spend more time. That means getting into the data, testing against boring-but-useful baselines, and occasionally discovering that the baseline had a point.
 
