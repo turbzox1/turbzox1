@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/turbzox1/turbzox1/main/assets/ai-engineer-signal.svg" alt="Piyush Patni — AI Engineer. Applied ML, LLM systems and data science. From models to systems that work." width="100%" />
+  <img src="https://raw.githubusercontent.com/turbzox1/turbzox1/main/assets/piyush-tech-portfolio.svg" alt="Piyush Patni — Software, Data, Systems. Curious by default. Builder by choice." width="100%" />
 </p>
 
 <p align="center">
-  <strong>AI Engineer</strong> · Applied ML, RAG &amp; a healthy amount of data science
+  <strong>Software development · Data science · Applied machine learning</strong>
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 ### Hey, I'm Piyush.
 
-I'm an **AI engineer** who likes building things that do more than give a convincing demo. Retrieval-backed apps, ML pipelines, systems that help decide what to do next—that's the kind of work you'll find here.
+I like turning an interesting problem into something you can actually use. Sometimes that's a web app, sometimes a data pipeline, sometimes a model. I tend to follow the problem rather than pick a favourite job title.
 
-Getting a model to answer is fun. Figuring out whether the answer deserves your trust is where I tend to spend more time. That means getting into the data, testing against boring-but-useful baselines, and occasionally discovering that the baseline had a point.
+My work sits across **software development, data science, and applied machine learning**. I enjoy connecting the pieces: making sense of the data, writing the backend, and building an interface that doesn't need me standing next to it explaining which button to press.
 
 My background is in **Cyber Physical Systems at Manipal Institute of Technology**, with a **Data Science minor**. I like the overlap: understand the data, build the system, and make it useful to someone who didn't write it.
 
-**Usually building with:** Python, LangGraph, retrieval pipelines, SQL, and FastAPI. The project READMEs have the longer version; the repos have the evidence.
+**Usually building with:** Python, SQL, FastAPI, Next.js, and the right tools for the problem. The project READMEs have the longer version; the repos have the evidence.
 
 ## Selected work
 
@@ -165,7 +165,7 @@ My background is in **Cyber Physical Systems at Manipal Institute of Technology*
 
 <p align="center">
   <strong>Building something interesting? I'd like to hear about it.</strong><br />
-  Open to AI engineering opportunities, collaborations, and a good conversation about why a model did that.<br /><br />
+  Open to opportunities across software, data, and applied AI—and a good conversation about something worth building.<br /><br />
   <a href="https://www.linkedin.com/in/piyush-patni-1bb52827b/">Let's connect on LinkedIn ↗</a>
   &nbsp; · &nbsp;
   <a href="mailto:piyupatni@gmail.com">Send me an email ↗</a>

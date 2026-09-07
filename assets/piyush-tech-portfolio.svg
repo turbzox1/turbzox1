@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title description">
+  <title id="title">Piyush Patni — Software, Data, Systems</title>
+  <desc id="description">A graphite and chartreuse portfolio masthead with bold typography and an architectural, interlocking P monogram. Curious by default. Builder by choice.</desc>
+  <defs>
+    <linearGradient id="back" x2="1" y2="1"><stop stop-color="#242B32"/><stop offset="1" stop-color="#11161C"/></linearGradient>
+    <linearGradient id="metal" x2=".8" y2="1"><stop stop-color="#DCE3E7"/><stop offset=".55" stop-color="#92A0AB"/><stop offset="1" stop-color="#56636E"/></linearGradient>
+    <linearGradient id="lime" x2=".8" y2="1"><stop stop-color="#E5FAAA"/><stop offset=".55" stop-color="#C6EC69"/><stop offset="1" stop-color="#9EBE51"/></linearGradient>
+  </defs>
+  <rect width="1440" height="440" rx="16" fill="#11161C"/>
+  <path d="M899 0H1424Q1440 0 1440 16V362H899Z" fill="url(#back)"/>
+  <path d="M899 0V362" stroke="#303940"/>
+  <g fill="none" stroke="#46515B" opacity=".35">
+    <path d="M899 59H1440M899 306H1440M958 0V362M1379 0V362"/>
+    <path d="M949 59H967M958 50V68M1370 306H1388M1379 297V315" stroke="#9DAEB8" opacity=".7"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="65" y="52" width="8" height="8" fill="#C6EC69"/>
+    <text x="89" y="64" font-size="15" letter-spacing="3.2" fill="#ADB8C2">PIYUSH / PORTFOLIO</text>
+    <text x="57" y="209" font-size="98" font-weight="700" letter-spacing="-5" fill="#F0F3F4">Piyush Patni<tspan fill="#C6EC69">.</tspan></text>
+    <text x="65" y="265" font-size="27" fill="#B4C0CB" letter-spacing="-.4">Curious by default. Builder by choice.</text>
+    <path d="M65 306H119" stroke="#C6EC69" stroke-width="3"/>
+    <text x="138" y="312" font-size="16" fill="#83939F" letter-spacing="1">Turning questions into things that work.</text>
+  </g>
+  <!-- An original interlocking monogram, not a stock AI or neural-network motif. -->
+  <g transform="translate(998 44)">
+    <path d="M9 271V24H140C192 24 220 53 220 100C220 147 187 177 140 177H62V271Z" fill="#080C11" opacity=".6" transform="translate(14 14)"/>
+    <path d="M9 271V24H140C192 24 220 53 220 100C220 147 187 177 140 177H62V271Z M62 73V128H136C155 128 167 118 167 100C167 82 155 73 136 73Z" fill="url(#metal)" fill-rule="evenodd"/>
+    <path d="M104 282V89H207C249 89 273 113 273 150C273 188 247 212 207 212H146V282Z" fill="#0C1217" opacity=".65" transform="translate(10 10)"/>
+    <path d="M104 282V89H207C249 89 273 113 273 150C273 188 247 212 207 212H146V282Z M146 128V173H204C221 173 231 165 231 150C231 136 221 128 204 128Z" fill="url(#lime)" fill-rule="evenodd"/>
+    <path d="M104 282V89H207C249 89 273 113 273 150" stroke="#EEFFC7" stroke-width="1.1" opacity=".55" fill="none"/>
+  </g>
+  <path d="M0 362H1440" stroke="#364048"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#E4E9EC">
+    <text x="65" y="408">SOFTWARE</text>
+    <text x="402" y="408">DATA</text>
+    <text x="660" y="408">SYSTEMS</text>
+  </g>
+  <g stroke="#48545E"><path d="M348 386V419M602 386V419M899 386V419"/></g>
+  <text x="960" y="407" font-family="Consolas, monospace" font-size="16" fill="#AAB8C4">github.com/turbzox1</text>
+  <path d="M1344 411L1364 391M1344 391H1364V411" fill="none" stroke="#C6EC69" stroke-width="2.2"/>
+</svg>
