@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Piyush Patni — AI Engineering / Data Science. Machine learning, retrieval systems and statistical analysis." width="100%" />
+  <img src="assets/profile-banner.svg" alt="Hey, I'm Piyush Patni. AI Engineer. Building things, checking the answers. A notebook sketch of the idea, build, test, rethink loop." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Applied machine learning · Retrieval-augmented systems · Data science</strong>
+  <strong>AI Engineer</strong> · Applied ML, RAG &amp; a healthy amount of data science
 </p>
 
 <p align="center">
@@ -19,15 +19,15 @@
 
 ---
 
-### AI engineering & data science
+### Hey, I'm Piyush.
 
-I'm **Piyush**. My focus is **AI engineering and data science**: building retrieval-backed applications, engineering data pipelines, and evaluating predictive models. My background in Cyber Physical Systems at Manipal Institute of Technology, with a minor in Data Science, connects systems thinking with analytical problem-solving.
+I'm an **AI engineer** who likes building things that do more than give a convincing demo. Retrieval-backed apps, ML pipelines, systems that help decide what to do next—that's the kind of work you'll find here.
 
-My projects connect the analytical work—data preparation, feature engineering, statistical reasoning, and evaluation—with the engineering needed to make it usable: Python services, SQL, APIs, and interfaces. I document assumptions, compare models with baselines, and test the systems around them.
+Getting a model to answer is fun. Figuring out whether the answer deserves your trust is where I tend to spend more time. That means getting into the data, testing against boring-but-useful baselines, and occasionally discovering that the baseline had a point.
 
-| AI engineering | Data science | Supporting engineering |
-| :--- | :--- | :--- |
-| Retrieval pipelines, LangGraph workflows, and model-backed applications. | Feature engineering, time-series analysis, forecasting, and interpretable evaluation. | Data validation, DuckDB / SQL, FastAPI services, and automated tests. |
+My background is in **Cyber Physical Systems at Manipal Institute of Technology**, with a **Data Science minor**. I like the overlap: understand the data, build the system, and make it useful to someone who didn't write it.
+
+**Usually building with:** Python, LangGraph, retrieval pipelines, SQL, and FastAPI. The project READMEs have the longer version; the repos have the evidence.
 
 ## Selected work
 
@@ -164,8 +164,8 @@ My projects connect the analytical work—data preparation, feature engineering,
 ---
 
 <p align="center">
-  <strong>Let's talk about AI engineering and data science.</strong><br />
-  Open to opportunities and collaborations in applied ML, retrieval systems, and data-driven products.<br /><br />
+  <strong>Building something interesting? I'd like to hear about it.</strong><br />
+  Open to AI engineering opportunities, collaborations, and a good conversation about why a model did that.<br /><br />
   <a href="https://www.linkedin.com/in/piyush-patni-1bb52827b/">Let's connect on LinkedIn ↗</a>
   &nbsp; · &nbsp;
   <a href="mailto:piyupatni@gmail.com">Send me an email ↗</a>
