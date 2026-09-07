@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Piyush Patni — Data with depth. Software with purpose. AI, analytics and full-stack engineering." width="100%" />
+  <img src="assets/profile-banner.svg" alt="Piyush Patni — AI Engineering / Data Science. Machine learning, retrieval systems and statistical analysis." width="100%" />
 </p>
 
 <p align="center">
-  <strong>I turn data into explanations, models into experiments, and ideas into working software.</strong>
+  <strong>Applied machine learning · Retrieval-augmented systems · Data science</strong>
 </p>
 
 <p align="center">
@@ -19,15 +19,15 @@
 
 ---
 
-### A little about how I build
+### AI engineering & data science
 
-I'm **Piyush**, working across **data analytics, applied AI/ML, and full-stack development**. I enjoy the whole path from a messy dataset or an interesting question to something someone can actually use.
+I'm **Piyush**. My focus is **AI engineering and data science**: building retrieval-backed applications, engineering data pipelines, and evaluating predictive models. My background in Cyber Physical Systems at Manipal Institute of Technology, with a minor in Data Science, connects systems thinking with analytical problem-solving.
 
-Three questions guide my work: **What problem does this solve? What does the evidence support? Can someone else reproduce it?**
+My projects connect the analytical work—data preparation, feature engineering, statistical reasoning, and evaluation—with the engineering needed to make it usable: Python services, SQL, APIs, and interfaces. I document assumptions, compare models with baselines, and test the systems around them.
 
-| Investigate | Build | Explain |
+| AI engineering | Data science | Supporting engineering |
 | :--- | :--- | :--- |
-| Find useful patterns with Python, SQL, statistics, and feature engineering. | Connect models, APIs, and interfaces into complete applications. | Make results understandable through clear dashboards, baselines, and documented trade-offs. |
+| Retrieval pipelines, LangGraph workflows, and model-backed applications. | Feature engineering, time-series analysis, forecasting, and interpretable evaluation. | Data validation, DuckDB / SQL, FastAPI services, and automated tests. |
 
 ## Selected work
 
@@ -41,7 +41,7 @@ An internet trend intelligence platform that goes beyond popularity rankings: di
   <img src="https://raw.githubusercontent.com/turbzox1/TrendPulse/main/docs/screenshots/overview.png" alt="TrendPulse dashboard showing searchable topics, momentum cards and clearly labeled synthetic data" width="100%" />
 </a>
 
-**Inside the project**
+**Data science & engineering demonstrated**
 
 - **Explainable analytics:** seven momentum factors, lifecycle stages, anomaly evidence, and sustainability assessment.
 - **Honest evaluation:** chronological validation, naive forecasting baselines, uncertainty intervals, and explicit non-causal lead/lag analysis.
@@ -59,14 +59,14 @@ An internet trend intelligence platform that goes beyond popularity rankings: di
   <tr>
     <td width="50%" valign="top">
       <h3>02 / Personal Finance Intelligence</h3>
-      <p><strong>Applied AI meets a full-stack product.</strong></p>
+      <p><strong>AI application engineering.</strong></p>
       <p>An AI-powered financial intelligence platform built around a Next.js frontend and a FastAPI backend.</p>
       <p><code>Next.js</code> <code>FastAPI</code> <code>Python</code></p>
       <p><a href="https://github.com/turbzox1/Personal-Finance-Intelligence">Explore the project ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>03 / REVIVE</h3>
-      <p><strong>Recovery strategies, evaluated with guardrails.</strong></p>
+      <p><strong>ML strategy evaluation and simulation.</strong></p>
       <p>An autonomous payment-recovery system with strategy evaluation, simulation, and merchant guardrails.</p>
       <p><code>Python</code> <code>ML</code> <code>Docker</code> <code>Simulation</code></p>
       <p><a href="https://github.com/turbzox1/REVIVE">Explore the project ↗</a></p>
@@ -76,26 +76,28 @@ An internet trend intelligence platform that goes beyond popularity rankings: di
 
 #### 04 / Insurance Support Chatbot
 
-**Retrieval-backed conversations for insurance support.** A LangGraph + RAG assistant combining retrieval, context compression, query rewriting, and web search.
+**AI engineering through retrieval-backed workflows.** A LangGraph + RAG assistant for insurance support, combining retrieval, context compression, query rewriting, and web search.
 
 `Python` `LangGraph` `RAG` `Retrieval`
 
 [Explore the project ↗](https://github.com/turbzox1/insurance-support-chatbot)
 
-## My toolkit
+## Technical toolkit
 
 | Area | Tools I work with |
 | :--- | :--- |
-| **Languages** | Python · SQL · C++ · Java · R |
-| **Analytics & visualization** | Pandas · NumPy · DuckDB · Plotly · Matplotlib · Streamlit · Power BI |
 | **Machine learning** | scikit-learn · XGBoost · feature engineering · SMOTE |
 | **Generative AI & retrieval** | LangChain · LangGraph · ChromaDB · RAG |
+| **Data science & analytics** | Python · SQL · Pandas · NumPy · DuckDB · R |
+| **Visualization** | Plotly · Matplotlib · Streamlit · Power BI |
 | **Applications & APIs** | Next.js · FastAPI · SQLAlchemy · Redis · SQLite |
 | **Development** | Git · GitHub · Docker · reproducible experiments · automated tests |
+| **Additional languages** | C++ · Java |
 
-## Learning, deliberately
+## Education & learning
 
-My **Cyber Physical Systems** background and **Data Science** minor connect systems thinking with analytical problem-solving. I like projects that make me practice both.
+**B.Tech in Cyber Physical Systems · Manipal Institute of Technology**<br />
+**Minor in Data Science**
 
 <details>
   <summary><strong>Certifications &amp; coursework</strong></summary>
@@ -110,11 +112,9 @@ My **Cyber Physical Systems** background and **Data Science** minor connect syst
 ---
 
 <p align="center">
-  <strong>Have an interesting problem, project, or opportunity?</strong><br />
-  I'm open to conversations about analytics, AI/ML, and software engineering.<br /><br />
+  <strong>Let's talk about AI engineering and data science.</strong><br />
+  Open to opportunities and collaborations in applied ML, retrieval systems, and data-driven products.<br /><br />
   <a href="https://www.linkedin.com/in/piyush-patni-1bb52827b/">Let's connect on LinkedIn ↗</a>
   &nbsp; · &nbsp;
   <a href="mailto:piyupatni@gmail.com">Send me an email ↗</a>
 </p>
-
-<p align="center"><sub>Curiosity in. Useful things out.</sub></p>
