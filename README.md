@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/turbzox1/turbzox1/main/assets/piyush-tech-portfolio.svg" alt="Piyush Patni — Software, Data, Systems. Curious by default. Builder by choice." width="100%" />
+  <img src="https://raw.githubusercontent.com/turbzox1/turbzox1/main/assets/piyush-tech-portfolio.svg?v=3" alt="Piyush Patni — engineer building useful things from messy problems across software, data, and applied machine learning" width="100%" />
 </p>
 
 <p align="center">
